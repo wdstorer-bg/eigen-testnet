@@ -2,6 +2,6 @@
   "name": "WS Testnet Operator",
   "website": "",
   "description": "Testing out operator registration for testnet",
-  "logo": "https://github.com/wdstorer-bg/eigen-testnet/blob/main/eigenlogo.png?raw=true",
+  "logo": "https://raw.githubusercontent.com/wdstorer-bg/eigen-testnet/refs/heads/main/eigenlogo.png",
   "twitter": ""
 }
